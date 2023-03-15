@@ -1,0 +1,24 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML>
+ <HEAD>
+  <TITLE> New Document </TITLE>
+  <META NAME="Generator" CONTENT="EditPlus">
+  <META NAME="Author" CONTENT="">
+  <META NAME="Keywords" CONTENT="">
+  <META NAME="Description" CONTENT="">
+ </HEAD>
+
+ <BODY bgcolor="#f09970">
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <table>
+  <tr>
+  <td><h2>successfully Sheduled.
+  <td><a href="AdminHome.jsp">Home</a>
+  </tr>
+  </table>
+ </BODY>
+</HTML>
